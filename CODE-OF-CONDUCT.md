@@ -1,3 +1,3 @@
-# Lazygit Code of Conduct
+# Lazyclick Code of Conduct
 
-Be nice, or face the wrath of the maintainer.
+Behave well, be nice, and don't be a jerk.
